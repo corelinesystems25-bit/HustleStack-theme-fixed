@@ -1,6 +1,6 @@
 # HustleStack - Premium Shopify Hydrogen Theme
 
-A sophisticated, business-focused Shopify Hydrogen theme designed for entrepreneurs and growing businesses.
+A sophisticated, business-focused Shopify Hydrogen theme designed for entrepreneurs and growing businesses. 
 
 ## Features
 
